@@ -8,11 +8,13 @@ Trabajo principalmente con Java, TypeScript, Python, JavaScript, SQL/NoSQL y Sup
 |---|---|
 | TCare-Code (privado) | App móvil con Expo y TypeScript. En desarrollo. |
 | connect-hearts (privado) | App personal en desarrollo. |
+| [boxeo-app](https://github.com/david1cecilia-alt/boxeo-app) | Entrenador de boxeo por voz: PWA sin conexión con motor de reglas en Python y port en JavaScript, FastAPI + SQLite opcional y 183 tests en CI. [Probar](https://david1cecilia-alt.github.io/boxeo-app/) |
 
 ## DAM 2º
 | Proyecto | Descripción |
 |---|---|
 | [PromeHub-DataExchange](https://github.com/david1cecilia-alt/PromeHub-DataExchange) | App Java de consola que convierte un catálogo de videojuegos entre CSV y XML (JAXB, Maven). Team Leader de un equipo de 4. |
+| [hotel-reservas-javafx](https://github.com/david1cecilia-alt/hotel-reservas-javafx) | HotelApp: app de escritorio en JavaFX (Java 21, FXML, Maven) que lee habitaciones y reservas desde XML con DOM. Desarrollo de Interfaces. |
 | [Build-Verde](https://github.com/david1cecilia-alt/Build-Verde) | Pipeline mínimo de CI con GitHub Actions y Maven. |
 
 ## DAM 1º
