@@ -15,6 +15,7 @@ Trabajo principalmente con Java, TypeScript, Python, JavaScript, SQL/NoSQL y Sup
 |---|---|
 | [PromeHub-DataExchange](https://github.com/david1cecilia-alt/PromeHub-DataExchange) | App Java de consola que convierte un catálogo de videojuegos entre CSV y XML (JAXB, Maven). Team Leader de un equipo de 4. |
 | [hotel-reservas-javafx](https://github.com/david1cecilia-alt/hotel-reservas-javafx) | HotelApp: app de escritorio en JavaFX (Java 21, FXML, Maven) que lee habitaciones y reservas desde XML con DOM. Desarrollo de Interfaces. |
+| [hotel-reservas-javafx-parte-2](https://github.com/david1cecilia-alt/hotel-reservas-javafx-parte-2) | Segunda parte de HotelApp: filtros en vivo por estado, capacidad y accesibilidad (ComboBox, Spinner, CheckBox y listeners). Desarrollo de Interfaces. |
 | [Build-Verde](https://github.com/david1cecilia-alt/Build-Verde) | Pipeline mínimo de CI con GitHub Actions y Maven. |
 | [MiBiblioteca-Activity](https://github.com/david1cecilia-alt/MiBiblioteca-Activity) | App Android en Java para una biblioteca personal: CRUD con Room (SQLite), migración de esquema 1→2 y acceso a datos en hilo secundario. Equipo de 3. |
 | [NoticiasFP](https://github.com/david1cecilia-alt/NoticiasFP) | App Android de noticias con Material Design: menú lateral (Navigation Drawer), tarjetas con categorías, favoritas y Snackbar. Trabajo en grupo. |
